@@ -20,7 +20,7 @@
   "devDependencies": {
     "aws-sdk": "^2.4.6",
     "electron-packager": "^8.3.0",
-    "electron-prebuilt": "^1.2.0",
+    "electron-prebuilt": "^1.4.10",
     "gulp": "^3.9.1"
   },
   "dependencies": {
